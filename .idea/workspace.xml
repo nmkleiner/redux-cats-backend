@@ -25,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -33,6 +33,15 @@
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/cats/interfaces/cat.interfaces.ts" />
         <option value="$PROJECT_DIR$/src/cats/cats.module.ts" />
         <option value="$PROJECT_DIR$/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -168,15 +178,16 @@
       <option name="presentableId" value="Default" />
       <updated>1555839129051</updated>
       <workItem from="1555839130343" duration="669000" />
-      <workItem from="1555913213591" duration="9659000" />
+      <workItem from="1555913213591" duration="9763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10328000" />
+    <option name="totallyTimeSpent" value="10432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="938" y="23" width="981" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -297,6 +308,13 @@
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
